@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything you want, if i can help you, you gonna know!**
 
-- 📫 How to reach me **eutobias[at]gmail[dot]com**
+- 📫 How to reach me **eutobias@gmail.com**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
