@@ -66,7 +66,9 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;"/>
 </p>
+
 ---
+
 <h3 align="left">Falling in love with:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
