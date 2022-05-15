@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **i dont know yet**
 
-- 🌱 I’m currently learning **Go, Rusty, Elixir**
+- 🌱 I’m currently learning **Go, Rust, Elixir**
 
 - 💬 Ask me about **anything you want, if i can help you, you gonna know!**
 
