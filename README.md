@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
-<h3 align="center">A passionate FUN Stack Developer, going to Specialist path. This is the way!</h3>
+<h3 align="center">A passionate FUN Stack Developer. This is the way!</h3>
 
 - 🔭 I’m currently working on **i dont know yet**
 
