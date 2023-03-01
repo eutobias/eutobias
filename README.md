@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **i dont know yet**
 
-- 🌱 I’m currently learning **Go, Rust, Elixir**
+- 🌱 I’m currently focusing to be specialist in **React / React Native**
 
 - 💬 Ask me about **anything you want, if i can help you, you gonna know!**
 
@@ -52,8 +52,6 @@
             alt="typescript" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;" />
             <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;" />
             <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;" />
-</p>
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;" />
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;"/>
@@ -65,13 +63,7 @@
             alt="mongodb" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" style="background:white;border-radius:5px;overflow:hidden;padding: 5px;"/>
-</p>
-
----
-
-<h3 align="left">Falling in love with:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
     alt="go" width="40" height="40" 
     style="background:white;border-radius:5px;overflow:hidden;padding: 5px;" />
     <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40"
